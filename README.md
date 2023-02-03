@@ -4,6 +4,8 @@
 
 Đây là bài báo cáo bài tập tiểu luận của cá nhân thành viên thực hiện (phần thực hiện trong nhóm) đối với môn học “Công nghệ .NET”.
 
+Lưu ý: phần mình thực hiện không có Quản lý nhân viên (hình ảnh lấy từ bài báo cáo của nhóm nên còn phần quản lý nhân viên).
+
 Nội dung sẽ bao gồm :
 
 - Các chức năng của chương trình.
