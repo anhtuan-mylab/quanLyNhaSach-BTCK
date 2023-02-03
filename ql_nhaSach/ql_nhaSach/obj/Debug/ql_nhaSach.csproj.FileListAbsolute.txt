@@ -1,0 +1,36 @@
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach\ql_nhaSach\bin\Debug\ql_nhaSach.exe.config
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach\ql_nhaSach\bin\Debug\ql_nhaSach.exe
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach\ql_nhaSach\bin\Debug\ql_nhaSach.pdb
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.csprojResolveAssemblyReference.cache
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.DangNhap.resources
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.Properties.Resources.resources
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.csproj.GenerateResource.Cache
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.exe
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.pdb
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.QuanLySach.resources
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.form01_admin_02.resources
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.form03_nv_thuNgan.resources
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach - Copy\ql_nhaSach\bin\Debug\ql_nhaSach.exe.config
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach - Copy\ql_nhaSach\obj\Debug\ql_nhaSach.exe
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach - Copy\ql_nhaSach\obj\Debug\ql_nhaSach.pdb
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach - Copy\ql_nhaSach\bin\Debug\ql_nhaSach.exe
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach - Copy\ql_nhaSach\bin\Debug\ql_nhaSach.pdb
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach - Copy\ql_nhaSach\obj\Debug\ql_nhaSach.csprojResolveAssemblyReference.cache
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach - Copy\ql_nhaSach\obj\Debug\ql_nhaSach.DangNhap.resources
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach - Copy\ql_nhaSach\obj\Debug\ql_nhaSach.form01_admin_02.resources
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach - Copy\ql_nhaSach\obj\Debug\ql_nhaSach.form03_nv_thuNgan.resources
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach - Copy\ql_nhaSach\obj\Debug\ql_nhaSach.Properties.Resources.resources
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach - Copy\ql_nhaSach\obj\Debug\ql_nhaSach.QuanLySach.resources
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\bai_tap_cuoi_ki\ql_nhaSach - Copy\ql_nhaSach\obj\Debug\ql_nhaSach.csproj.GenerateResource.Cache
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\[CNN]_Nhom03-QL_NhaSach_BTCK - Copy\ql_nhaSach\ql_nhaSach\bin\Debug\ql_nhaSach.exe.config
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\[CNN]_Nhom03-QL_NhaSach_BTCK - Copy\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.exe
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\[CNN]_Nhom03-QL_NhaSach_BTCK - Copy\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.pdb
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\[CNN]_Nhom03-QL_NhaSach_BTCK - Copy\ql_nhaSach\ql_nhaSach\bin\Debug\ql_nhaSach.exe
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\[CNN]_Nhom03-QL_NhaSach_BTCK - Copy\ql_nhaSach\ql_nhaSach\bin\Debug\ql_nhaSach.pdb
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\[CNN]_Nhom03-QL_NhaSach_BTCK - Copy\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.csprojResolveAssemblyReference.cache
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\[CNN]_Nhom03-QL_NhaSach_BTCK - Copy\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.DangNhap.resources
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\[CNN]_Nhom03-QL_NhaSach_BTCK - Copy\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.form01_admin_02.resources
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\[CNN]_Nhom03-QL_NhaSach_BTCK - Copy\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.form03_nv_thuNgan.resources
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\[CNN]_Nhom03-QL_NhaSach_BTCK - Copy\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.Properties.Resources.resources
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\[CNN]_Nhom03-QL_NhaSach_BTCK - Copy\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.QuanLySach.resources
+F:\1_Share_Folder_Network\Mon Hoc\Cong Nghe DotNet\[CNN]_Nhom03-QL_NhaSach_BTCK - Copy\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.csproj.GenerateResource.Cache
